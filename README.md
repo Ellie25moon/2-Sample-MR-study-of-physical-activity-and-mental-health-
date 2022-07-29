@@ -5,3 +5,5 @@ Examples of the R code used for the MR analyses of:
 
 1. Physical activity/sedentary behaviour -> PTSD 
 2. PTSD -> Physical activity/sedentary behaviour
+
+Note. The same code was used for the MR analyses involving other types of psychiatric disorders. 
